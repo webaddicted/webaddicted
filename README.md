@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ping me about **open-source**, **android**, **material-design** ,**flutter**, **development**
 - 💬 Ask me about ...
-- 📫 How to reach me: deepaksharma040695@gmail.com
+- 📫 How to reach me:  [E-mail](deepaksharma040695@gmail.com), [LinkedIn](https://www.linkedin.com/in/deepak-sharma-490905112/)
 - 😄 You can call me: Deep
 - ⚡ Fun fact: I love to listen songs and long trip.
 
