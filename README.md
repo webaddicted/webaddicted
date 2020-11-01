@@ -10,12 +10,12 @@ Here are some ideas to get you started:
 <img align="right" src="https://cdn.dribbble.com/users/1615466/screenshots/3879272/dribbble2.jpg" width="50%"/>
 
 - 🔭 I’m currently working on **Infogain India Private Limited**
-- 🌱 I’m currently learning all things android, flutter, Web app  
+- 🌱 I’m currently learning all things android, flutter, Web app and open source 
 - 💻 I work using: 
   ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=plastic&logo=github)
   ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=plastic&logo=gitlab)
 - 👯 I’m looking to collaborate on any fun or innovative project
-- 💬 Ping me about **open-source**, **android**, **flutter**, **development**
+- 💬 Ping me about **open-source**, **android**, **flutter**, material-design, **development**
 - 💬 Ask me about ...
 - 📫 How to reach me:  [E-mail](deepaksharma040695@gmail.com), [LinkedIn](https://www.linkedin.com/in/deepak-sharma-490905112/)
 - 😄 You can call me: Deep
