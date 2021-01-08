@@ -17,9 +17,18 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on any fun or innovative project
 - 💬 Ping me about **open-source**, **android**, **flutter**, **material-design**, **development**
 - 💬 Ask me about ...
-- 📫 How to reach me:  [E-mail](deepaksharma040695@gmail.com), [LinkedIn](https://www.linkedin.com/in/deepak-sharma-490905112/)
+- 📫 How to reach me:  [E-mail](deepaksharma040695@gmail.com), [LinkedIn](https://www.linkedin.com/in/deepak040695/)
 - 😄 You can call me: Deep
 - ⚡ Fun fact: I love to listen songs and long trip.
+### 📫 How to reach me: 
+
+<p align="center">
+<a href="https://twitter.com/deepak040695" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="deepak040695" height="25" width="35" /></a>
+<a href="https://linkedin.com/in/deepak040695" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="deepak040695" height="25" width="35" /></a>
+<a href="https://fb.com/techtamper" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="techtamper" height="25" width="35" /></a>
+<a href="https://instagram.com/techtamper" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="techtamper" height="25" width="35" /></a>
+<a href="https://stackoverflow.com/users/7628517/webaddicted?tab=profile" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="webaddicted" height="25" width="35" /></a>
+</p>
 
 **Languages and Tools:**  
 
