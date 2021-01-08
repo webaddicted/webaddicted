@@ -17,9 +17,10 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on any fun or innovative project
 - 💬 Ping me about **open-source**, **android**, **flutter**, **material-design**, **development**
 - 💬 Ask me about ...
-- 📫 How to reach me:  [E-mail](deepaksharma040695@gmail.com), [LinkedIn](https://www.linkedin.com/in/deepak040695/)
 - 😄 You can call me: Deep
 - ⚡ Fun fact: I love to listen songs and long trip.
+
+
 ### 📫 How to reach me: 
 
 <p align="center">
@@ -30,8 +31,9 @@ Here are some ideas to get you started:
 <a href="https://stackoverflow.com/users/7628517/webaddicted?tab=profile" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="webaddicted" height="25" width="35" /></a>
 </p>
 
-**Languages and Tools:**  
 
+### Languages and Tools: 
+<p align="center">
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
@@ -39,6 +41,8 @@ Here are some ideas to get you started:
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/flutter/flutter.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
+</p>
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=webaddicted)
 
