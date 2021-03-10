@@ -8,6 +8,10 @@
 
 **webaddicted/webaddicted** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=webaddicted)
+
+
 -->
 <img align="right" src="https://github.com/webaddicted/webaddicted/blob/main/Doc/home.webp" width="50%"/>
 
@@ -35,6 +39,7 @@ Here are some ideas to get you started:
 
 
 ### Languages and Tools: 
+
 <p align="center">
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png"></code>
@@ -45,9 +50,16 @@ Here are some ideas to get you started:
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 </p>
 
-### Top Languages:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=webaddicted)
 
+
+### Top Languages:
+
+<a href="https://github.com/webaddicted">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=webaddicted&theme=light&hide_langs_below=1" />
+</a>
+<a href="https://github.com/webaddicted">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=webaddicted&show_icons=true&theme=light&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919"&line_height=27" alt="Deepak's github stats"/>
+</a>
 
 ### ⚡ Github Report Card:
 <img src="https://github-readme-stats.vercel.app/api?username=webaddicted&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919" width="60%">
