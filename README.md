@@ -11,6 +11,11 @@ Here are some ideas to get you started:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=webaddicted)
 
+<div align="center">
+  
+### ⚡ ❤️ Projects:
+
+</div>
 
 -->
 <img align="right" src="https://github.com/webaddicted/webaddicted/blob/main/Doc/home.webp" width="50%"/>
@@ -60,14 +65,8 @@ Here are some ideas to get you started:
 <a href="https://github.com/webaddicted">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=webaddicted&show_icons=true&theme=light&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919"&line_height=30" alt="Deepak's github stats"/>
 </a>
-
-
-<div align="center">
   
 ### ⚡ ❤️ Projects:
-
-</div>
-
 
 <a href="https://github.com/webaddicted/Flutter-Movies4U">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=webaddicted&repo=Flutter-Movies4U&theme=light" />
