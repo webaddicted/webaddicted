@@ -1,9 +1,11 @@
 
 
-### Hi, Hola,Bonjour,Namaste there.
+### Hi, Hola, Bonjour, Namaste there.
 ### I'am Deepak Sharma👋
 
 <!--
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=webaddicted&label=Views&color=blue&style=plastic" alt="webaddicted" /> </p>
+
 **webaddicted/webaddicted** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 -->
