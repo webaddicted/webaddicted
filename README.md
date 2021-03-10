@@ -52,7 +52,7 @@ Here are some ideas to get you started:
 
 
 
-### Top Languages:
+### ⚡ ❤️ Top Languages:
 
 <a href="https://github.com/webaddicted">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=webaddicted&theme=light&hide_langs_below=1" />
@@ -61,6 +61,13 @@ Here are some ideas to get you started:
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=webaddicted&show_icons=true&theme=light&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919"&line_height=27" alt="Deepak's github stats"/>
 </a>
 
-### ⚡ Github Report Card:
-<img src="https://github-readme-stats.vercel.app/api?username=webaddicted&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919" width="60%">
+### ⚡ ❤️ Projects:
+
+<a href="https://github.com/webaddicted/Flutter-Movies4U">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=webaddicted&repo=Flutter-Movies4U&theme=light" />
+
+</a>
+<a href="https://github.com/webaddicted/KotlinProject">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=webaddicted&repo=KotlinProject&theme=light" />
+</a>
 
