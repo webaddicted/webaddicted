@@ -58,10 +58,12 @@ Here are some ideas to get you started:
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=webaddicted&theme=light&hide_langs_below=1" />
 </a>
 <a href="https://github.com/webaddicted">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=webaddicted&show_icons=true&theme=light&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919"&line_height=600" alt="Deepak's github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=webaddicted&show_icons=true&theme=light&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919"&line_height=30" alt="Deepak's github stats"/>
 </a>
 
+<div align="center">
 ### ⚡ ❤️ Projects:
+</div>
 
 <a href="https://github.com/webaddicted/Flutter-Movies4U">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=webaddicted&repo=Flutter-Movies4U&theme=light" />
