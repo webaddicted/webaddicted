@@ -41,6 +41,8 @@ Here are some ideas to get you started:
 <a href="https://instagram.com/techtamper" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="techtamper" height="25" width="35" /></a>
 <a href="https://stackoverflow.com/users/7628517/webaddicted?tab=profile" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="webaddicted" height="25" width="35" /></a>
 </p>
+<a href="https://github.com/techtamper" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="techtamper" height="25" width="35" /></a>
+</p>
 
 
 ### Languages and Tools: 
