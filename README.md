@@ -1,7 +1,7 @@
 
 
 ### Hi, Hola, Bonjour, Namaste there.
-### I'am Deepak Sharma👋
+## I'am Deepak Sharma👋
 
 <!--
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=webaddicted&label=Views&color=blue&style=plastic" alt="webaddicted" /> </p>
@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 
 <div align="center">
   
-### ⚡ ❤️ Projects:
+## ⚡ ❤️ Projects:
 
 </div>
 
@@ -27,12 +27,13 @@ Here are some ideas to get you started:
   ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=plastic&logo=gitlab)
 - 👯 I’m looking to collaborate on any fun or innovative project
 - 💬 Ping me about **open-source**, **android**, **flutter**, **material-design**, **development**
-- 💬 Ask me about ...
+- 💬 Ask me about Android and Flutter related stuff
 - 😄 You can call me: Deep
-- ⚡ Fun fact: I love to listen songs and long trip.
+- ⚡ Fun fact:  If I am not coding then I am probably sleeping
 
 
-### 📫 How to reach me: 
+## 📫 How to reach me: 
+
 
 <p align="center">
 <a href="https://twitter.com/deepak040695" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="deepak040695" height="25" width="35" /></a>
@@ -44,7 +45,7 @@ Here are some ideas to get you started:
 </p>
 
 
-### Languages and Tools: 
+## Languages and Tools: 
 
 <p align="center">
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
