@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 -->
 <img align="right" src="https://github.com/webaddicted/webaddicted/blob/main/Doc/home.webp" width="50%"/>
 
-- 🔭 I’m currently working on **Infogain India Private Limited**
+- 🔭 I’m currently working on **Deloitte India Private Limited**
 - 🌱 I’m currently learning all things android, flutter, Web app and open source 
 - 💻 I work using: 
   ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=plastic&logo=github)
