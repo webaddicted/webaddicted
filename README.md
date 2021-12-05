@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 <img align="right" src="https://github.com/webaddicted/webaddicted/blob/main/Doc/home.webp" width="50%"/>
 
 - 🔭 I’m currently working on **Deloitte India Private Limited**
-- 🌱 I’m currently learning all things android, flutter, Web app and open source 
+- 🌱 I’m currently learning all things <ins>Android</ins>, <ins>Kotlin</ins>, <ins>flutter</ins>, <ins>Web app and open source</ins>, and <ins>Jetpack Compose</ins>
 - 💻 I work using: 
   ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=plastic&logo=github)
   ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=plastic&logo=gitlab)
