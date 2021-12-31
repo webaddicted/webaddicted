@@ -6,6 +6,8 @@
 <!--
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=webaddicted&label=Views&color=blue&style=plastic" alt="webaddicted" /> </p>
 
+
+
 **webaddicted/webaddicted** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 
@@ -16,8 +18,14 @@ Here are some ideas to get you started:
 ## ⚡ ❤️ Projects:
 
 </div>
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=webaddicted&label=Profile%20views&color=0e75b6&style=flat"
+    alt="webaddicted" /> </p>
 -->
+
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img
+      src="https://github-profile-trophy.vercel.app/?username=webaddicted" alt="webaddicted" /></a> </p>
+
 <img align="right" src="https://github.com/webaddicted/webaddicted/blob/main/Doc/home.webp" width="50%"/>
 
 - 🔭 I’m currently working on **Deloitte India Private Limited**
