@@ -124,9 +124,9 @@ Here are some ideas to get you started:
 ### ⚡ ❤️ Projects:
 
 <a href="https://github.com/webaddicted/Flutter-Movies4U">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=webaddicted&repo=Flutter-Movies4U&theme=light" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/?username=webaddicted&repo=Flutter-Movies4U&theme=light" />
 </a>
 <a href="https://github.com/webaddicted/KotlinProject">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=webaddicted&repo=KotlinProject&theme=light" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api/?username=webaddicted&repo=KotlinProject&theme=light" />
 </a>
 
