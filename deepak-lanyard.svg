@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 380 520" width="380" height="520">
+  <defs>
+    <linearGradient id="cardBg" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#161B22"/>
+      <stop offset="100%" stop-color="#0D1117"/>
+    </linearGradient>
+    <linearGradient id="strap" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#7F52FF"/>
+      <stop offset="100%" stop-color="#02569B"/>
+    </linearGradient>
+    <clipPath id="avatarClip">
+      <circle cx="190" cy="200" r="62"/>
+    </clipPath>
+  </defs>
+  <!-- Lanyard strap -->
+  <rect x="165" y="0" width="50" height="90" fill="url(#strap)" rx="4"/>
+  <rect x="175" y="0" width="30" height="90" fill="#54C5F8" opacity="0.3" rx="2"/>
+  <!-- Clip -->
+  <rect x="155" y="85" width="70" height="18" rx="4" fill="#30363D" stroke="#7F52FF" stroke-width="1.5"/>
+  <!-- Card -->
+  <rect x="30" y="100" width="320" height="400" rx="16" fill="url(#cardBg)" stroke="#7F52FF" stroke-width="2"/>
+  <!-- Header stripe -->
+  <rect x="30" y="100" width="320" height="50" rx="16" fill="#7F52FF" opacity="0.15"/>
+  <rect x="30" y="135" width="320" height="15" fill="url(#cardBg)"/>
+  <text x="190" y="132" text-anchor="middle" fill="#7F52FF" font-size="11" font-family="monospace" letter-spacing="3">MOBILE ENGINEERING LEAD</text>
+  <!-- Avatar -->
+  <circle cx="190" cy="200" r="65" fill="none" stroke="#54C5F8" stroke-width="2">
+    <animate attributeName="stroke-opacity" values="0.5;1;0.5" dur="2s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="190" cy="200" r="62" fill="#21262D"/>
+  <image href="https://avatars.githubusercontent.com/u/38448422?v=4" x="128" y="138" width="124" height="124" clip-path="url(#avatarClip)"/>
+  <!-- Name & role -->
+  <text x="190" y="295" text-anchor="middle" fill="#E6EDF3" font-size="22" font-family="Segoe UI, system-ui, sans-serif" font-weight="700">Deepak Sharma</text>
+  <text x="190" y="320" text-anchor="middle" fill="#8B949E" font-size="13" font-family="Segoe UI, system-ui, sans-serif">Technical Lead · Android &amp; Flutter</text>
+  <text x="190" y="342" text-anchor="middle" fill="#54C5F8" font-size="12" font-family="monospace">9+ YEARS EXPERIENCE</text>
+  <!-- Divider -->
+  <line x1="70" y1="360" x2="310" y2="360" stroke="#30363D" stroke-width="1"/>
+  <!-- Details -->
+  <text x="60" y="385" fill="#8B949E" font-size="11" font-family="Segoe UI, system-ui, sans-serif"><â Paytm · Deloitte · Infogain</text>
+  <text x="60" y="408" fill="#8B949E" font-size="11" font-family="Segoe UI, system-ui, sans-serif">=Í Gurugram, India</text>
+  <text x="60" y="431" fill="#8B949E" font-size="11" font-family="Segoe UI, system-ui, sans-serif">=» Kotlin · Flutter · Compose</text>
+  <!-- QR-style decor -->
+  <g transform="translate(260,370)" opacity="0.6">
+    <rect width="60" height="60" fill="#21262D" stroke="#30363D" stroke-width="1" rx="4"/>
+    <rect x="5" y="5" width="15" height="15" fill="#7F52FF"/><rect x="40" y="5" width="15" height="15" fill="#7F52FF"/>
+    <rect x="5" y="40" width="15" height="15" fill="#7F52FF"/>
+    <rect x="25" y="25" width="10" height="10" fill="#54C5F8"/><rect x="40" y="40" width="8" height="8" fill="#00B9AE"/>
+  </g>
+  <!-- Bottom badge -->
+  <rect x="90" y="455" width="200" height="30" rx="15" fill="#7F52FF" opacity="0.2" stroke="#7F52FF" stroke-width="1"/>
+  <text x="190" y="475" text-anchor="middle" fill="#7F52FF" font-size="12" font-family="monospace" font-weight="bold">@webaddicted</text>
+  <!-- Swing animation -->
+  <animateTransform attributeName="transform" type="rotate" values="0 190 50;-1.5 190 50;0 190 50;1.5 190 50;0 190 50" dur="4s" repeatCount="indefinite"/>
+</svg>
