@@ -1,10 +1,6 @@
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="deepak-banner.svg">
-  <source media="(prefers-color-scheme: light)" srcset="deepak-banner-light.svg">
-  <img alt="Deepak Sharma — Technical Lead Android and Flutter" src="deepak-banner.svg" width="100%"/>
-</picture>
+<img alt="Deepak Sharma - Technical Lead Android and Flutter" src="https://raw.githubusercontent.com/webaddicted/webaddicted/main/deepak-banner.svg?v=3" width="100%"/>
 
 </div>
 
@@ -13,7 +9,7 @@
 <table>
 <tr>
 <td width="300" valign="top">
-<img alt="Deepak Sharma ID badge" src="deepak-lanyard.svg?v=1" width="280"/>
+<img alt="Deepak Sharma ID badge" src="https://raw.githubusercontent.com/webaddicted/webaddicted/main/deepak-lanyard.svg?v=3" width="280"/>
 </td>
 <td valign="top">
 
@@ -59,7 +55,7 @@
 
 <div align="center">
 
-<img alt="Deepak Sharma stats" src="deepak-stats.svg?v=1" width="460"/>
+<img alt="Deepak Sharma stats" src="https://raw.githubusercontent.com/webaddicted/webaddicted/main/deepak-stats.svg?v=3" width="460"/>
 
 <br/><br/>
 
@@ -86,11 +82,7 @@
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/webaddicted/webaddicted/output/github-snake-mobile.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/webaddicted/webaddicted/output/github-snake.svg">
-  <img alt="Contribution snake" src="https://raw.githubusercontent.com/webaddicted/webaddicted/output/github-snake-mobile.svg" width="100%"/>
-</picture>
+<img alt="Contribution snake" src="https://raw.githubusercontent.com/webaddicted/webaddicted/output/github-snake-mobile.svg" width="100%"/>
 
 </div>
 
@@ -109,7 +101,7 @@
 
 <br/><br/>
 
-<img alt="Custom Top Languages" src="deepak-langs.svg?v=1" width="400"/>
+<img alt="Custom Top Languages" src="https://raw.githubusercontent.com/webaddicted/webaddicted/main/deepak-langs.svg?v=3" width="400"/>
 
 </div>
 

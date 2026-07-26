@@ -1,4 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 460 160" width="460" height="160">
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 460 160" width="460" height="160" role="img" aria-label="GitHub stats for webaddicted">
   <defs>
     <linearGradient id="statGrad" x1="0%" y1="0%" x2="100%" y2="100%">
       <stop offset="0%" stop-color="#161B22"/>
@@ -6,28 +7,27 @@
     </linearGradient>
   </defs>
   <rect width="460" height="160" fill="url(#statGrad)" rx="10" stroke="#30363D" stroke-width="1"/>
-  <text x="20" y="28" fill="#E6EDF3" font-size="13" font-family="Segoe UI, system-ui, sans-serif" font-weight="600">webaddicted · Mobile Lead</text>
-  <!-- Stat boxes -->
+  <text x="20" y="28" fill="#E6EDF3" font-size="13" font-family="Arial, Helvetica, sans-serif" font-weight="600">webaddicted | Mobile Lead</text>
   <g transform="translate(20,45)">
     <rect width="95" height="55" rx="8" fill="#7F52FF" opacity="0.12" stroke="#7F52FF" stroke-width="1"/>
     <text x="47" y="25" text-anchor="middle" fill="#7F52FF" font-size="20" font-family="monospace" font-weight="bold">43</text>
-    <text x="47" y="42" text-anchor="middle" fill="#8B949E" font-size="10" font-family="Segoe UI, system-ui, sans-serif">Repos</text>
+    <text x="47" y="42" text-anchor="middle" fill="#8B949E" font-size="10" font-family="Arial, Helvetica, sans-serif">Repos</text>
   </g>
   <g transform="translate(125,45)">
     <rect width="95" height="55" rx="8" fill="#54C5F8" opacity="0.12" stroke="#54C5F8" stroke-width="1"/>
     <text x="47" y="25" text-anchor="middle" fill="#54C5F8" font-size="20" font-family="monospace" font-weight="bold">51</text>
-    <text x="47" y="42" text-anchor="middle" fill="#8B949E" font-size="10" font-family="Segoe UI, system-ui, sans-serif">Followers</text>
+    <text x="47" y="42" text-anchor="middle" fill="#8B949E" font-size="10" font-family="Arial, Helvetica, sans-serif">Followers</text>
   </g>
   <g transform="translate(230,45)">
     <rect width="95" height="55" rx="8" fill="#00B9AE" opacity="0.12" stroke="#00B9AE" stroke-width="1"/>
     <text x="47" y="25" text-anchor="middle" fill="#00B9AE" font-size="20" font-family="monospace" font-weight="bold">9+</text>
-    <text x="47" y="42" text-anchor="middle" fill="#8B949E" font-size="10" font-family="Segoe UI, system-ui, sans-serif">Years Exp</text>
+    <text x="47" y="42" text-anchor="middle" fill="#8B949E" font-size="10" font-family="Arial, Helvetica, sans-serif">Years Exp</text>
   </g>
   <g transform="translate(335,45)">
     <rect width="105" height="55" rx="8" fill="#F78166" opacity="0.12" stroke="#F78166" stroke-width="1"/>
     <text x="52" y="25" text-anchor="middle" fill="#F78166" font-size="20" font-family="monospace" font-weight="bold">50M+</text>
-    <text x="52" y="42" text-anchor="middle" fill="#8B949E" font-size="10" font-family="Segoe UI, system-ui, sans-serif">Users Scaled</text>
+    <text x="52" y="42" text-anchor="middle" fill="#8B949E" font-size="10" font-family="Arial, Helvetica, sans-serif">Users Scaled</text>
   </g>
-  <text x="20" y="130" fill="#484F58" font-size="11" font-family="Segoe UI, system-ui, sans-serif">Kotlin · Flutter · Jetpack Compose · Clean Architecture · MCP/AI</text>
-  <text x="20" y="148" fill="#484F58" font-size="11" font-family="Segoe UI, system-ui, sans-serif">Paytm P4B · Deloitte · Infogain · TechAhead</text>
+  <text x="20" y="130" fill="#484F58" font-size="11" font-family="Arial, Helvetica, sans-serif">Kotlin | Flutter | Jetpack Compose | Clean Architecture | MCP/AI</text>
+  <text x="20" y="148" fill="#484F58" font-size="11" font-family="Arial, Helvetica, sans-serif">Paytm P4B | Deloitte | Infogain | TechAhead</text>
 </svg>
