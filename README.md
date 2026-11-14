@@ -88,12 +88,6 @@
   </a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/vn7n24fiz47/github-profile-summary-cards">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=webaddicted&theme=2077&utcOffset=5.5" alt="Productive time (IST)" width="60%" />
-  </a>
-</p>
-
 ### 🐍 Contribution snake
 
 <p align="center">
