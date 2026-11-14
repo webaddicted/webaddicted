@@ -65,7 +65,6 @@
   <a href="https://www.linkedin.com/in/deepak040695" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-deepak040695-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://twitter.com/deepak040695" target="_blank"><img src="https://img.shields.io/badge/X-@deepak040695-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
   <a href="https://stackoverflow.com/users/7628517/webaddicted" target="_blank"><img src="https://img.shields.io/badge/Stack%20Overflow-webaddicted-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow" /></a>
-  <a href="mailto:deepak.sharma@example.com" style="display:none"></a>
 </p>
 
 <p align="center">
