@@ -1,96 +1,130 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList:0,61dafb,15202b&height=140&section=header&text=Deepak%20Sharma&fontSize=45&fontColor=fff&animation=twinkling" alt="Deepak Sharma"/>
 
-### Hi, Hola, Bonjour, Namaste there.
+<h3 align="center">Hi, Hola, Bonjour, Namaste — welcome to my corner of GitHub</h3>
 
-<p align="left">
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&pause=900&color=61DAFB&center=true&vCenter=true&width=500&lines=Software+Engineer+%40+Deloitte+India;Flutter+%7C+Android+%7C+Kotlin+%7C+Firebase;Clean+Architecture+%26+Production+Mobile+Apps;AI+Agents%2C+MCP+%26+Developer+Automation" alt="Typing intro" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=webaddicted&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/webaddicted?style=for-the-badge&logo=github&color=181717&labelColor=0d1117" alt="GitHub followers" />
+  <img src="https://img.shields.io/badge/📍-Gurgaon%2C%20India-0d1117?style=for-the-badge" alt="Location" />
+  <img src="https://img.shields.io/badge/Hireable-Yes-00C853?style=for-the-badge&logo=target&logoColor=white" alt="Open to work" />
+</p>
+
+<p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-trophies.devomb.com/?username=webaddicted" alt="GitHub trophies for webaddicted" />
+    <img src="https://github-trophies.devomb.com/?username=webaddicted&column=4&margin-w=8&margin-h=8&no-frame=true" alt="GitHub trophies" />
   </a>
 </p>
 
 ## I'm Deepak Sharma 👋
 
-<!-- https://github.com/ArizArmeidi/awesome-github-profile-readme-templates -->
+<img align="right" src="https://raw.githubusercontent.com/webaddicted/webaddicted/main/Doc/home.webp" width="42%" alt="Deepak Sharma"/>
 
-<!--
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=webaddicted&label=Views&color=blue&style=plastic" alt="webaddicted" /> </p>
-**webaddicted/webaddicted** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
-<div align="center">
-## ⚡ ❤️ Projects:
-</div>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=webaddicted&label=Profile%20views&color=0e75b6&style=flat"
-    alt="webaddicted" /> </p>
--->
+> *"I like to make user interfaces beautiful — but I love back-end."*  
+> Building apps that look premium and scale like real products.
 
-<img align="right" src="https://raw.githubusercontent.com/webaddicted/webaddicted/main/Doc/home.webp" width="50%" alt="Deepak Sharma"/>
+- 🔭 **Software Engineer @ Deloitte India** — shipping production **mobile & digital** experiences
+- 🌱 Deep-diving **Flutter architecture**, **Jetpack Compose**, **Firebase/backends**, **Next.js/TS**, and **AI dev workflows** (Cursor, agents, MCP)
+- 💻 **Toolbox:**
+  ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+  ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
+  ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+  ![Cursor](https://img.shields.io/badge/-Cursor-000000?style=flat-square&logo=cursor&logoColor=white)
+- 👯 Open to **Flutter/Android collabs**, **open source**, and **AI × mobile** experiments
+- 💬 Ask me about **architecture**, **store/CI pipelines**, **Material Design**, or **shipping faster**
+- 😄 Call me **Deep** · ⚡ When I'm not coding, I'm probably tuning automations (or sleeping)
 
-- 🔭 I'm a **Software Engineer at Deloitte India** (Gurgaon), shipping **production mobile apps** and client-facing digital products
-- 🌱 Currently going deeper on **Flutter clean architecture**, **Jetpack Compose**, **Firebase & backend integration**, **Next.js/TypeScript** for web, and **AI dev workflows** (Cursor, agents & MCP)
-- 💻 I build with:
-  ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=plastic&logo=github)
-  ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=plastic&logo=gitlab)
-  ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=plastic&logo=firebase&logoColor=black)
-  ![Cursor](https://img.shields.io/badge/-Cursor-000000?style=plastic&logo=cursor&logoColor=white)
-- 👯 Open to collaborate on **Flutter/Android apps**, **open-source libraries**, **developer tooling**, or **AI × mobile** experiments
-- 💬 Ping me about **Flutter**, **Android/Kotlin**, **Material Design**, **app architecture**, **Firebase**, or **shipping builds faster**
-- 🧠 Ask me about **MVVM/Clean Architecture in Flutter**, **store releases**, **CI & internal distribution**, or **turning ideas into shippable apps**
-- 😄 You can call me: **Deep**
-- ⚡ Fun fact: Beautiful UI makes me happy — but I'll happily disappear into **backend, DevOps, and automation** for hours
+---
 
-## 📫 How to reach me:
+### ⚡ At a glance
 
-<p align="center">
-<a href="https://twitter.com/deepak040695" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@11.0.0/icons/x.svg" alt="deepak040695 on X" height="25" width="35" /></a>
-<a href="https://linkedin.com/in/deepak040695" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@11.0.0/icons/linkedin.svg" alt="deepak040695" height="25" width="35" /></a>
-<a href="https://fb.com/techtamper" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@11.0.0/icons/facebook.svg" alt="techtamper" height="25" width="35" /></a>
-<a href="https://instagram.com/techtamper" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@11.0.0/icons/instagram.svg" alt="techtamper" height="25" width="35" /></a>
-<a href="https://stackoverflow.com/users/7628517/webaddicted?tab=profile" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@11.0.0/icons/stackoverflow.svg" alt="webaddicted" height="25" width="35" /></a>
-<a href="https://github.com/techtamper" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@11.0.0/icons/github.svg" alt="techtamper" height="25" width="35" /></a>
-</p>
+| 🎯 Focus | 📦 Open source | 🌍 Community | 🧠 Right now |
+|:---:|:---:|:---:|:---:|
+| Flutter & Android products | **40+** public repos | **50+** GitHub followers | AI agents & MCP tooling |
+| Firebase & clean architecture | **[KotlinProject](https://github.com/webaddicted/KotlinProject)** · **86⭐** | Stack Overflow contributor | E‑commerce & portfolio apps |
+| Enterprise @ Deloitte | Android samples & libraries since **2018** | Open to **hire** & collab | Jetpack Compose + Cursor skills |
 
-## Languages and Tools:
+---
+
+### 🛠️ Tech arsenal
 
 <p align="center">
-<a href="https://www.android.com/intl/en_in/" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" alt="android" width="40" height="40" /> </a>
-<a href="https://kotlinlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png" alt="kotlin" width="40" height="40" /> </a>
-<a href="https://www.java.com/en/" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" alt="java" width="40" height="40" /> </a>
-<a href="https://flutter.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40" /> </a>
-<a href="https://dart.dev" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png" alt="dart" width="40" height="40" /> </a>
-<a href="https://www.w3schools.com/colors/colors_rgb.asp" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" /> </a>
-<a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40" /> </a>
-<a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40" /> </a>
-<a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="git" width="40" height="40" /> </a>
-<a href="https://www.adobe.com/products/xd.html" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40" /> </a>
-<a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40" /> </a>
-<a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40" /> </a>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,android,java,firebase,ts,nextjs,python,git,github,gitlab,figma,postman,docker,gradle&perline=8&theme=dark" alt="Tech stack" />
+  </a>
 </p>
 
-### ⚡ ❤️ Top Languages:
+---
 
-<div align="center">
-  <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-    <img
-      align="left"
-      width="396"
-      src="https://streak-stats.demolab.com/?user=webaddicted&theme=react&border=61dafb&hide_border=true"
-      alt="GitHub streak stats"
-    />
+## 📫 How to reach me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/deepak040695" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-deepak040695-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://twitter.com/deepak040695" target="_blank"><img src="https://img.shields.io/badge/X-@deepak040695-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
+  <a href="https://stackoverflow.com/users/7628517/webaddicted" target="_blank"><img src="https://img.shields.io/badge/Stack%20Overflow-webaddicted-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow" /></a>
+  <a href="mailto:deepak.sharma@example.com" style="display:none"></a>
+</p>
+
+<p align="center">
+  <a href="https://fb.com/techtamper" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@11.0.0/icons/facebook.svg" alt="Facebook" height="28" /></a>
+  &nbsp;
+  <a href="https://instagram.com/techtamper" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@11.0.0/icons/instagram.svg" alt="Instagram" height="28" /></a>
+  &nbsp;
+  <a href="https://github.com/techtamper" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@11.0.0/icons/github.svg" alt="GitHub" height="28" /></a>
+</p>
+
+---
+
+### 📈 GitHub analytics
+
+<p align="center">
+  <a href="https://github.com/denvercoder1/github-readme-streak-stats">
+    <img src="https://streak-stats.demolab.com/?user=webaddicted&theme=react&border=61dafb&hide_border=true&fire=61DAFB&ring=61DAFB" alt="GitHub streak" width="49%" />
   </a>
-  <a href="https://github.com/vn7n24fiz47/github-profile-summary-cards" title="Go to Source">
-    <img
-      align="right"
-      width="396"
-      src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=webaddicted&theme=2077"
-      alt="GitHub profile details"
-    />
+  <a href="https://github.com/vn7n24fiz47/github-profile-summary-cards">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=webaddicted&theme=2077" alt="Profile details" width="49%" />
   </a>
-</div>
+</p>
 
-### ⚡ ❤️ Projects:
+<p align="center">
+  <a href="https://github.com/vn7n24fiz47/github-profile-summary-cards">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=webaddicted&theme=2077&utcOffset=5.5" alt="Productive time (IST)" width="60%" />
+  </a>
+</p>
 
-<a href="https://github.com/webaddicted/Flutter-Movies4U">
-  <img align="center" src="https://opengraph.githubassets.com/1/webaddicted/Flutter-Movies4U" alt="Flutter-Movies4U" width="420" />
-</a>
-<a href="https://github.com/webaddicted/KotlinProject">
-  <img align="center" src="https://opengraph.githubassets.com/1/webaddicted/KotlinProject" alt="KotlinProject" width="420" />
-</a>
+### 🐍 Contribution snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/webaddicted/webaddicted/main/assets/github-contribution-grid-snake.svg" alt="Contribution snake" />
+</p>
+
+<p align="center"><i>Snake updates daily via GitHub Actions — run <b>Generate contribution snake</b> workflow once if this is your first visit after the upgrade.</i></p>
+
+---
+
+### 🏆 Featured open source
+
+| Project | What it is | Stars |
+|---------|------------|:-----:|
+| [**KotlinProject**](https://github.com/webaddicted/KotlinProject) | Android kitchen sink — Material, Firebase, Room, dark theme, PIP | **86⭐** |
+| [**E-Commerce-Disinfectant**](https://github.com/webaddicted/E-Commerce-Disinfectant) | Flutter e‑commerce UX — auth, OTP, farmer-focused flows | **11⭐** |
+| [**CleanArchitecture**](https://github.com/webaddicted/CleanArchitecture) | Kotlin MVVM reference with Koin & LiveData | **10⭐** |
+| [**ImagePickerCompressor**](https://github.com/webaddicted/ImagePickerCompressor) | Camera/gallery + compression for modern Android | **9⭐** |
+
+### 🚀 Spotlight projects
+
+<p align="center">
+  <a href="https://github.com/webaddicted/KotlinProject">
+    <img src="https://opengraph.githubassets.com/1/webaddicted/KotlinProject" alt="KotlinProject" width="47%" />
+  </a>
+  <a href="https://github.com/webaddicted/E-Commerce-Disinfectant">
+    <img src="https://opengraph.githubassets.com/1/webaddicted/E-Commerce-Disinfectant" alt="E-Commerce-Disinfectant" width="47%" />
+  </a>
+</p>
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList:0,61dafb,15202b&height=110&section=footer&text=Thanks%20for%20visiting!%20Let%27s%20build%20something%20awesome.&fontSize=20&fontColor=fff&animation=scaleIn" alt="Footer"/>
