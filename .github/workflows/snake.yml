@@ -4,6 +4,11 @@ on:
   schedule:
     - cron: "0 0 * * *"
   workflow_dispatch:
+  push:
+    branches:
+      - main
+    paths:
+      - ".github/workflows/snake.yml"
 
 permissions:
   contents: write
@@ -19,11 +24,14 @@ jobs:
         uses: Platane/snk@v3
         with:
           github_user_name: webaddicted
-          outputs_path: assets/github-contribution-grid-snake.svg
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          outputs: |
+            assets/github-contribution-grid-snake.svg
 
       - name: Commit snake
         uses: EndBug/add-and-commit@v9
         with:
+          add: assets/github-contribution-grid-snake.svg
           author_name: github-actions[bot]
           author_email: 41898282+github-actions[bot]@users.noreply.github.com
           message: "chore: update contribution snake"
