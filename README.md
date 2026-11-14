@@ -91,10 +91,8 @@
 ### 🐍 Contribution snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/webaddicted/webaddicted/main/assets/github-contribution-grid-snake.svg" alt="Contribution snake" />
+  <img src="https://raw.githubusercontent.com/webaddicted/webaddicted/main/assets/github-contribution-grid-snake.svg" alt="Contribution snake eating commits" />
 </p>
-
-<p align="center"><i>Snake updates daily via GitHub Actions — run <b>Generate contribution snake</b> workflow once if this is your first visit after the upgrade.</i></p>
 
 ---
 
