@@ -15,7 +15,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=webaddicted&label=Views&color=blue&style=plastic" alt="webaddicted" /> </p>
 **webaddicted/webaddicted** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
-![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=webaddicted)
 <div align="center">
 ## ⚡ ❤️ Projects:
 </div>
@@ -67,36 +66,22 @@ Here are some ideas to get you started:
 ### ⚡ ❤️ Top Languages:
 
 <div align="center">
-  <div align="center">
-    <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-      <img
-        align="left"
-        width="396"
-        src="https://streak-stats.demolab.com/?user=webaddicted&theme=react&border=61dafb&hide_border=true"
-        alt="GitHub streak stats"
-      />
-    </a>
-    <a href="https://github.com/vn7n24fiz47/github-profile-summary-cards" title="Go to Source">
-      <img
-        align="right"
-        width="396"
-        src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=webaddicted&theme=2077"
-        alt="GitHub profile details"
-      />
-    </a>
-  </div>
-  <br /><br /><br /><br /><br /><br /><br /><br />
-  <div align="center" title="Go to Source">
-    <a href="https://github.com/vn7n24fiz47/github-profile-summary-cards">
-      <img
-        width="335"
-        align="center"
-        src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=webaddicted&theme=2077"
-        alt="Most used languages by commit"
-      />
-    </a>
-  </div>
-  <br />
+  <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
+    <img
+      align="left"
+      width="396"
+      src="https://streak-stats.demolab.com/?user=webaddicted&theme=react&border=61dafb&hide_border=true"
+      alt="GitHub streak stats"
+    />
+  </a>
+  <a href="https://github.com/vn7n24fiz47/github-profile-summary-cards" title="Go to Source">
+    <img
+      align="right"
+      width="396"
+      src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=webaddicted&theme=2077"
+      alt="GitHub profile details"
+    />
+  </a>
 </div>
 
 ### ⚡ ❤️ Projects:
