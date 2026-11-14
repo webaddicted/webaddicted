@@ -7,7 +7,7 @@
   </a>
 </p>
 
-## I'am Deepak Sharma👋
+## I'm Deepak Sharma 👋
 
 <!-- https://github.com/ArizArmeidi/awesome-github-profile-readme-templates -->
 
@@ -24,16 +24,18 @@ Here are some ideas to get you started:
 
 <img align="right" src="https://raw.githubusercontent.com/webaddicted/webaddicted/main/Doc/home.webp" width="50%" alt="Deepak Sharma"/>
 
-- 🔭 I’m currently working on **Deloitte India Private Limited**
-- 🌱 I’m currently learning all things <ins>Android</ins>, <ins>Kotlin</ins>, <ins>flutter</ins>, <ins>Web app and open source</ins>, and <ins>Jetpack Compose</ins>
-- 💻 I work using:
+- 🔭 I'm a **Software Engineer at Deloitte India** (Gurgaon), shipping **production mobile apps** and client-facing digital products
+- 🌱 Currently going deeper on **Flutter clean architecture**, **Jetpack Compose**, **Firebase & backend integration**, **Next.js/TypeScript** for web, and **AI dev workflows** (Cursor, agents & MCP)
+- 💻 I build with:
   ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=plastic&logo=github)
   ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=plastic&logo=gitlab)
-- 👯 I’m looking to collaborate on any fun or innovative project
-- 💬 Ping me about **open-source**, **android**, **flutter**, **material-design**, **development**
-- 💬 Ask me about Android and Flutter related stuff
-- 😄 You can call me: Deep
-- ⚡ Fun fact: If I am not coding then I am probably sleeping
+  ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=plastic&logo=firebase&logoColor=black)
+  ![Cursor](https://img.shields.io/badge/-Cursor-000000?style=plastic&logo=cursor&logoColor=white)
+- 👯 Open to collaborate on **Flutter/Android apps**, **open-source libraries**, **developer tooling**, or **AI × mobile** experiments
+- 💬 Ping me about **Flutter**, **Android/Kotlin**, **Material Design**, **app architecture**, **Firebase**, or **shipping builds faster**
+- 🧠 Ask me about **MVVM/Clean Architecture in Flutter**, **store releases**, **CI & internal distribution**, or **turning ideas into shippable apps**
+- 😄 You can call me: **Deep**
+- ⚡ Fun fact: Beautiful UI makes me happy — but I'll happily disappear into **backend, DevOps, and automation** for hours
 
 ## 📫 How to reach me:
 
